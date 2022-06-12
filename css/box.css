@@ -1,0 +1,11 @@
+.box-a {
+    background-color: lightgray;
+    padding: 100px;
+    float: right;
+}
+
+.box-b {
+    background-color: lightgray;
+    padding: 100px;
+    float: right; 
+}
